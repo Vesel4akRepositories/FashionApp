@@ -1,3 +1,2 @@
 # Fashion App
-
-![Alt text](./assets/screen_1.jpg){:height="700px" width="400px"}
+<img src="./assets/screen_1.jpg" height="400" width="250"/>
